@@ -572,7 +572,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -714,6 +714,10 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "firstgid":2956,
+         "source":"..\/..\/tiled\/map360\/tsx\/decoration.tsx"
         }],
  "tilewidth":32,
  "type":"map",
