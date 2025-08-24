@@ -638,9 +638,6 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":2956,
         }],
  "tilewidth":32,
  "type":"map",
