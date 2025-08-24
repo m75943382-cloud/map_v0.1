@@ -640,8 +640,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":200,
          "firstgid":2956,
-         "source":"..\/..\/tiled\/map360\/tsx\/decoration.tsx"
+         "image":"..\/..\/tiled\/map360\/deprecated tilesheets\/decorations_mastersheet.png",
+         "imageheight":1600,
+         "imagewidth":6400,
+         "margin":0,
+         "name":"decoration",
+         "spacing":0,
+         "tilecount":10000,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
