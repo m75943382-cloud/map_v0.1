@@ -1,0 +1,162 @@
+{
+    "activeFile": "office2.tmj",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2304,
+                "y": -768.6666666666665
+            }
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#MASTER": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#chairs": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#collisions": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#decoration22": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#floor": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#floor 2": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#furniture mastersheet": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#outside": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#walls": {
+            "scaleInDock": 1
+        },
+        "office.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 533.3333333333333,
+                "y": 655.3333333333333
+            }
+        },
+        "office.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "office.tmj#floor-test": {
+            "scaleInDock": 1
+        },
+        "office2.tmj": {
+            "expandedGroupLayers": [
+                55,
+                54,
+                51,
+                52
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 512,
+                "y": 511
+            }
+        },
+        "office2.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#floor wood": {
+            "scaleInDock": 0.25
+        },
+        "office2.tmj#floor-test": {
+            "scaleInDock": 1
+        },
+        "office2.tmj#floor3": {
+            "scaleInDock": 0.33
+        },
+        "office2.tmj#furniture1": {
+            "scaleInDock": 0.75
+        },
+        "office2.tmj#walls": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/user/Documents/GitHub/map_v0.1/tilesets",
+    "openFiles": [
+        "office.tmj",
+        "office2.tmj",
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "office.tmj",
+        "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj",
+        "office2.tmj"
+    ],
+    "tileset.embedInMap": true
+}
