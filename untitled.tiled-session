@@ -7,8 +7,8 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 2304,
-                "y": -768.6666666666665
+                "x": 2304.6666666666665,
+                "y": -768
             }
         },
         "C:/Users/user/Documents/tiled/map360/tmx/Office Map.tmj#MASTER": {
@@ -96,8 +96,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 512,
-                "y": 511
+                "x": 149,
+                "y": 692
             }
         },
         "office2.tmj#WA_Decoration": {
